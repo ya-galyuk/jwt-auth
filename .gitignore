@@ -1,0 +1,11 @@
+.idea/
+
+client/
+client/node_modules
+client/build
+client/yarn-error.log*
+
+server/.env
+server/node_modules
+server/.idea/
+server/package-lock.json
