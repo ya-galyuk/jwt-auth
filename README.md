@@ -17,7 +17,7 @@ Simple MERN application for authorization with access and refresh tokens, email 
 - nodemailer
 - express-validator
 
-Database:
+## Database:
 
 - mongodb
 - mongoose
