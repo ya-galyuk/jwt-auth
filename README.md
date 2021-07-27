@@ -2,7 +2,9 @@
 
 Simple MERN application for authorization with access and refresh tokens, email activation.
 
-## Client
+## ⚙️ Technologies
+
+### Client
 
 - react
 - typescript
@@ -10,14 +12,14 @@ Simple MERN application for authorization with access and refresh tokens, email 
 - mobx
 - mobx-react-lite
 
-## Server
+### Server
 
 - express
 - jsonwebtoken
 - nodemailer
 - express-validator
 
-## Database:
+### Database:
 
 - mongodb
 - mongoose
